@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/userupload/42386139/file/original-ace4ceffff5c55ecd9062534764350a2.gif">
 📊 Excel Data Analysis & Interactive Dashboard Projects
 Microsoft Excel | Pivot Tables | Time Series | Forecasting | Dashboards
 
